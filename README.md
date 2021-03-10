@@ -1,6 +1,6 @@
 # SONADataset
 
-Resource usage and application metrics have been collected over various TPC-C executions in cloud environments. SONA Dataset includes informations for the following:
+Resource usage and application metrics have been collected over various TPC-C executions in cloud environments. SONA Dataset includes informations about the following:
 
 - Number of CPU cores.
 - Memory size.
